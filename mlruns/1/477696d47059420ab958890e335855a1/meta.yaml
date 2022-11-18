@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/477696d47059420ab958890e335855a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 477696d47059420ab958890e335855a1
+run_name: K Neighbors Classifier
+run_uuid: 477696d47059420ab958890e335855a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668802820363
+status: 1
+tags: []
+user_id: djego
