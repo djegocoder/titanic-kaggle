@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/9edf2ddfa7664e1296797aa0de77a537/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9edf2ddfa7664e1296797aa0de77a537
+run_name: Ridge Classifier
+run_uuid: 9edf2ddfa7664e1296797aa0de77a537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668874472675
+status: 1
+tags: []
+user_id: djego
