@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/e956cdcaa9cb4da08e43ccdea558a4ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e956cdcaa9cb4da08e43ccdea558a4ad
+run_name: Naive Bayes
+run_uuid: e956cdcaa9cb4da08e43ccdea558a4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668907608992
+status: 1
+tags: []
+user_id: djego

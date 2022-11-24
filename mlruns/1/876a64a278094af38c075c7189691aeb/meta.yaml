@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/876a64a278094af38c075c7189691aeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 876a64a278094af38c075c7189691aeb
+run_name: SVM - Linear Kernel
+run_uuid: 876a64a278094af38c075c7189691aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040093798
+status: 1
+tags: []
+user_id: djego

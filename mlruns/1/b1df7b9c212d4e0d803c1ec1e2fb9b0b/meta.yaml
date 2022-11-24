@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/b1df7b9c212d4e0d803c1ec1e2fb9b0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1df7b9c212d4e0d803c1ec1e2fb9b0b
+run_name: Decision Tree Classifier
+run_uuid: b1df7b9c212d4e0d803c1ec1e2fb9b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669217465238
+status: 1
+tags: []
+user_id: djego

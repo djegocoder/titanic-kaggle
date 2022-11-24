@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/0b8fbd3648564e67894c59e426e376e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b8fbd3648564e67894c59e426e376e8
+run_name: Dummy Classifier
+run_uuid: 0b8fbd3648564e67894c59e426e376e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669043165157
+status: 1
+tags: []
+user_id: djego

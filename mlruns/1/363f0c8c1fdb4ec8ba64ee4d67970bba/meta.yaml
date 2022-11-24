@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/363f0c8c1fdb4ec8ba64ee4d67970bba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 363f0c8c1fdb4ec8ba64ee4d67970bba
+run_name: Gradient Boosting Classifier
+run_uuid: 363f0c8c1fdb4ec8ba64ee4d67970bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669043164102
+status: 1
+tags: []
+user_id: djego

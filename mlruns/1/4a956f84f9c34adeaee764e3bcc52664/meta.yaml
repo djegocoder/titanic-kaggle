@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/4a956f84f9c34adeaee764e3bcc52664/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a956f84f9c34adeaee764e3bcc52664
+run_name: Random Forest Classifier
+run_uuid: 4a956f84f9c34adeaee764e3bcc52664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669043276391
+status: 1
+tags: []
+user_id: djego

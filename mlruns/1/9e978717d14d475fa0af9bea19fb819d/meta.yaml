@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/9e978717d14d475fa0af9bea19fb819d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e978717d14d475fa0af9bea19fb819d
+run_name: Logistic Regression
+run_uuid: 9e978717d14d475fa0af9bea19fb819d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669043165065
+status: 1
+tags: []
+user_id: djego

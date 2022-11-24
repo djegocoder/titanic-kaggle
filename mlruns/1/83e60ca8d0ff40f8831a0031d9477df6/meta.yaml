@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/83e60ca8d0ff40f8831a0031d9477df6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83e60ca8d0ff40f8831a0031d9477df6
+run_name: Ada Boost Classifier
+run_uuid: 83e60ca8d0ff40f8831a0031d9477df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669043164567
+status: 1
+tags: []
+user_id: djego

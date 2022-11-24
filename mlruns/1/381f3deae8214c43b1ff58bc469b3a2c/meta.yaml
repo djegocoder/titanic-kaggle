@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/381f3deae8214c43b1ff58bc469b3a2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 381f3deae8214c43b1ff58bc469b3a2c
+run_name: Extra Trees Classifier
+run_uuid: 381f3deae8214c43b1ff58bc469b3a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040092982
+status: 1
+tags: []
+user_id: djego

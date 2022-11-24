@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/09563cb74968481c913ee9efd589ad68/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09563cb74968481c913ee9efd589ad68
+run_name: Linear Discriminant Analysis
+run_uuid: 09563cb74968481c913ee9efd589ad68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668907609116
+status: 1
+tags: []
+user_id: djego

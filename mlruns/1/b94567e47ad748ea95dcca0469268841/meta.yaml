@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/b94567e47ad748ea95dcca0469268841/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b94567e47ad748ea95dcca0469268841
+run_name: Session Initialized db49
+run_uuid: b94567e47ad748ea95dcca0469268841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669040054849
+status: 1
+tags: []
+user_id: djego
