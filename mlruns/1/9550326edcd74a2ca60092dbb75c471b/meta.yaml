@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/9550326edcd74a2ca60092dbb75c471b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9550326edcd74a2ca60092dbb75c471b
+run_name: Quadratic Discriminant Analysis
+run_uuid: 9550326edcd74a2ca60092dbb75c471b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669490390190
+status: 1
+tags: []
+user_id: djego

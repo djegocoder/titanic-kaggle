@@ -1,0 +1,15 @@
+artifact_uri: file:///home/djego/%C3%81rea%20de%20Trabalho/Ci%C3%AAncia%20de%20Dados/Kaggle%20competitions/Titanic/mlruns/1/1619f867851c46abad3a85f906842249/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1619f867851c46abad3a85f906842249
+run_name: Light Gradient Boosting Machine
+run_uuid: 1619f867851c46abad3a85f906842249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669491977067
+status: 1
+tags: []
+user_id: djego
